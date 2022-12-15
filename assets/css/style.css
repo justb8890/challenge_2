@@ -39,3 +39,7 @@ footer {
     margin-right: 16px;
     margin-bottom: 16px;
 }
+.work{
+    display: flex;
+    flex-wrap: wrap;
+}
